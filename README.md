@@ -68,3 +68,5 @@ Follow these steps to integrate Razorpay into Open edX:
     4. #BGSM-FrontEnd-App-Authoring-Header *after # is name of branch*   
 
 8. **tutor config save and build**
+
+9. **After build > tutor local start -d (To recreate the container)**
